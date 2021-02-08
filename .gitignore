@@ -1,0 +1,15 @@
+# SPDX-License-Identifier: zlib-acknowledgement
+
+*
+!*/
+
+!/todo/**/*
+
+!.gitignore
+
+!README.md
+
+!/misc/lint.bash
+
+!rpo-build.bash
+!rpo.c
