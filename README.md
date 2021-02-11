@@ -3,7 +3,7 @@
 Raspberry PI environments which are intended to develop my knowledge for my desired career as an embedded software engineer.
 
 ## Environment Schedule 
-1. Linux OS + gdbserver
+1. Linux OS + gdbserver (pc-lint, header searches)
 TODO: buildroot, kernel configuratrion (koala youtube)
 
 2. Linux kernel extension
